@@ -1,0 +1,18 @@
+1. mkdir dafafirmansyah_
+2. cd dafafirmansyah_
+3. mkdir sekolah kerja
+4. cd sekolah
+5. touch ijazah.txt
+5. nano ijazah.txt
+6. cat ijazah.txt
+7. touch portofolio.txt
+8. nano portofolio.txt
+9. cd ..
+10. cd kerja
+11. touch cv.txt
+12. nano cv.txt
+13. cat cv.txt
+14. cd ..
+15. mv sekolah/portofolio.txt kerja
+16. cd kerja
+17. ls
